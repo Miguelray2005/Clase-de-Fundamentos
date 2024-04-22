@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713797926 source:c:\users\home\desktop\fundamentos de programacion i\9\calculadora de amortizacion\main.c
+	<stdio.h>
+	<math.h>
+
