@@ -1,0 +1,14 @@
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\bin\Debug\net8.0\PROGRAMA DE LOTERIA.exe
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\bin\Debug\net8.0\PROGRAMA DE LOTERIA.deps.json
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\bin\Debug\net8.0\PROGRAMA DE LOTERIA.runtimeconfig.json
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\bin\Debug\net8.0\PROGRAMA DE LOTERIA.dll
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\bin\Debug\net8.0\PROGRAMA DE LOTERIA.pdb
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\obj\Debug\net8.0\PROGRAMA DE LOTERIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\obj\Debug\net8.0\PROGRAMA DE LOTERIA.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\obj\Debug\net8.0\PROGRAMA DE LOTERIA.AssemblyInfo.cs
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\obj\Debug\net8.0\PROGRAMA DE LOTERIA.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\obj\Debug\net8.0\PROGRAMA DE LOTERIA.dll
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\obj\Debug\net8.0\refint\PROGRAMA DE LOTERIA.dll
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\obj\Debug\net8.0\PROGRAMA DE LOTERIA.pdb
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\obj\Debug\net8.0\PROGRAMA DE LOTERIA.genruntimeconfig.cache
+C:\Users\home\Desktop\Fundamentos de programación II\PROGRAMA DE LOTERIA\PROGRAMA DE LOTERIA\obj\Debug\net8.0\ref\PROGRAMA DE LOTERIA.dll
